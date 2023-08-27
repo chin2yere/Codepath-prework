@@ -35,13 +35,16 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-codepath.gif
 
-👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div style="position: relative; padding-bottom: 53.125%; height: 0;"><iframe src="https://www.loom.com/embed/641bda83fe86416881bfcc6a739994c6?sid=253ec5e3-4fb5-4bdb-b998-2a343492cd05" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+
+👉🏿<img src='https://www.loom.com/embed/641bda83fe86416881bfcc6a739994c6?sid=253ec5e3-4fb5-4bdb-b998-2a343492cd05' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-<iframe src="https://drive.google.com/file/d/1KXkeEYBU1hOUfCe5ltVeVnrWZj-FE-3A/preview" width="640" height="480" allow="autoplay"></iframe>
-GIF created with ... screenToGif
+
+GIF created with ... Loom
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -54,7 +57,7 @@ Describe any challenges encountered while building the app or any additional con
 
 ## License
 
-Copyright [👉🏿 yyyy] [👉🏿 name of copyright owner]
+Copyright Chinyere Offor
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
