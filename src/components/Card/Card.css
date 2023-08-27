@@ -1,0 +1,39 @@
+.creator-card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 8px;
+  height: 100%;
+  width: 500px;
+  position: relative;
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+}
+.creator-card::before {
+  border-radius: 8px;
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(13, 12, 12, 0.392); /* Semi-transparent gray color */
+  pointer-events: none; /* Allow clicks to pass through the overlay */
+}
+.container {
+  padding: 2px 16px;
+}
+.row-creator-card {
+  display: flex;
+  width: 100%;
+}
+.leftcol-creator-card {
+  flex: 70%;
+}
+.rightcol-creator-card {
+  flex: 30%;
+  margin-left: 10px;
+}
+.anchor {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}

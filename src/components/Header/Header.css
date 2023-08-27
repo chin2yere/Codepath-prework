@@ -1,0 +1,15 @@
+.header {
+  height: 600px;
+  width: 1050px;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/2/2f/Hubble_ultra_deep_field.jpg");
+}
+.h1-header {
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 80px;
+}
+.button-header {
+  background-color: rgb(161, 161, 223);
+  border-color: aqua;
+}
