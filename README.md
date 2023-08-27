@@ -40,7 +40,7 @@ Here's a walkthrough of implemented required features:
 
 
 
-👉🏿<img src='https://www.loom.com/embed/641bda83fe86416881bfcc6a739994c6?sid=253ec5e3-4fb5-4bdb-b998-2a343492cd05' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 
