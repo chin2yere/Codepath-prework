@@ -59,7 +59,8 @@ export default function Card({
     return (
       <div>
         <Link
-          to="/creator"
+          key={Name}
+          to={`/creator/${Name}`}
           state={{ passedProps: passedProps }}
           className="anchor"
         >

@@ -16,7 +16,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Body viewAll={viewAll} />} />
           <Route path="/edit" element={<Edit />} />
-          <Route path="/creator" element={<CreatorInfo />} />
+          <Route path="/creator/:name" element={<CreatorInfo />} />
         </Routes>
       </BrowserRouter>
     </>
